@@ -1,0 +1,19 @@
+{
+  "facebook": {
+    "text": "Deseas iniciar?",
+    "quick_replies": [
+      {
+        "content_type": "text",
+        "title": "Si",
+        "payload": "si-select-welcome",
+        "image_url": ""
+      },
+      {
+        "content_type": "text",
+        "title": "No",
+        "payload": "no-select-welcome",
+        "image_url": ""
+      }
+    ]
+  }
+}
