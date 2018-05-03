@@ -1,0 +1,16 @@
+{
+  "facebook": {
+    "attachment": {
+      "type": "template",
+      "payload": {
+        "template_type": "media",
+        "elements": [
+          {
+            "media_type": "image",
+            "url": "https://www.facebook.com/ugalileo/photos/a.197247700295220.50042.171452352874755/1886027574750549"
+          }
+        ]
+      }
+    }
+  }
+}
