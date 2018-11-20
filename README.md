@@ -1,2 +1,2 @@
 # MessengerTemplates-GoogleIO-UG
-Los plantillas para usar en el custom payload de Dialogflow
+Templates from Facebook to Dialogflow.
